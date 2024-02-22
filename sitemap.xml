@@ -1,13 +1,7 @@
-urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-<loc>http://ftp.statnet.org/</loc>
-<lastmod>2020-01-30T02:04:38+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>http://ftp.statnet.org/blank.html</loc>
-<lastmod>2020-01-30T02:04:38+00:00</lastmod>
-<priority>0.80</priority>
+<loc>http://ftp.iliketomatoes.com/</loc>
+<lastmod>2024-02-22T07:51:33+00:00</lastmod>
 </url>
 </urlset>
